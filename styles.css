@@ -106,6 +106,17 @@ img{
         width: 400px;
         height: 400px;
     }
+    .h1 {
+        font-size: 70px;
+        letter-spacing: normal;
+    }
+    h2{
+        font-size: 50px;
+        letter-spacing: normal;
+    }
+    p{
+        font-size: 16px;
+    }
     .img{
         width: 100%;
         padding: 0px;
